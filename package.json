@@ -1,0 +1,25 @@
+{
+  "name": "csd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zxt": "lessc css/index.less css/index.min.css -x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanxiangyi-one/20191120111.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanxiangyi-one/20191120111/issues"
+  },
+  "homepage": "https://github.com/hanxiangyi-one/20191120111#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
+    "less": "^3.10.3"
+  }
+}
